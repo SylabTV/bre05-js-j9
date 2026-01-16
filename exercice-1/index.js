@@ -5,3 +5,4 @@ window.addEventListener("DOMContentLoaded", () => {
 console.log(question);
 console.log(answer);
 });
+
